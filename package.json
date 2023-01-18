@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/glorymugizi/webpack-boiler-plate.git"
+    "url": "git+https://github.com/danielmatama/webpack-intro.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/glorymugizi/webpack-boiler-plate/issues"
+    "url": "https://github.com/danielmatama/webpack-intro/issues"
   },
-  "homepage": "https://github.com/glorymugizi/webpack-boiler-plate#readme",
+  "homepage": "https://github.com/danielmatama/webpack-intro#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.3",
